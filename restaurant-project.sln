@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKFood.Web", "NKFood.Web\NKFood.Web.csproj", "{5B5551F1-F6DD-4BF1-AABD-80F3B4DC4D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NKFood.Data", "NKFood.Data\NKFood.Data.csproj", "{A15DBF64-9EC9-40CF-A5AD-549E1351E43F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B5551F1-F6DD-4BF1-AABD-80F3B4DC4D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B5551F1-F6DD-4BF1-AABD-80F3B4DC4D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B5551F1-F6DD-4BF1-AABD-80F3B4DC4D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B5551F1-F6DD-4BF1-AABD-80F3B4DC4D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15DBF64-9EC9-40CF-A5AD-549E1351E43F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15DBF64-9EC9-40CF-A5AD-549E1351E43F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15DBF64-9EC9-40CF-A5AD-549E1351E43F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15DBF64-9EC9-40CF-A5AD-549E1351E43F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3F4584B-F5B1-4FBC-9BFC-64C22196CF2C}
+	EndGlobalSection
+EndGlobal
